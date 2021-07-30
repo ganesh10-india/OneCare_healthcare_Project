@@ -31,6 +31,6 @@ Healthcare Website with 5 machine learning algorithm
    * run app.py file ==> command <kbd>⌘ python app.py</kbd>
    * Navigate to URL "http://localhost:5000"
 
-* To view deployed app : "https://onecare12.herokuapp.com/"
+* To view deployed app : "https://onecarehealthcare2021.herokuapp.com/"
 
 
